@@ -1,0 +1,70 @@
+version: 4.0.70
+steps:
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
+  - prompt: Click on "Loan Products".
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: hover-text
+        text: Loan Products
+        description: link for loan products
+        action: click
