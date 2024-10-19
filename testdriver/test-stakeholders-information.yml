@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
+  - prompt: Click on "Stakeholders".
+    commands:
+      - command: hover-text
+        text: Stakeholders
+        description: link in the company section
+        action: click
