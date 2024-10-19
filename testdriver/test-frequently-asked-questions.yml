@@ -1,0 +1,65 @@
+version: 4.0.70
+steps:
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: scroll-until-text
+        text: Frequently asked questions
+        direction: down
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
+  - prompt: Click on "Frequently Asked Questions".
+    commands:
+      - command: hover-text
+        text: Frequently asked questions
+        description: link in the help and support section
+        action: click
