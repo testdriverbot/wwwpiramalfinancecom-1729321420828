@@ -1,0 +1,4 @@
+version: 4.0.70
+steps:
+  - prompt: Wait for the webpage to load.
+    commands: []
