@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
+  - prompt: Click on "Business Loan".
+    commands:
+      - command: hover-text
+        text: Business Loan
+        description: link for Business Loan
+        action: click
