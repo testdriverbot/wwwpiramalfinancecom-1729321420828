@@ -1,0 +1,104 @@
+version: 4.0.70
+steps:
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+      - command: hover-text
+        text: Sign Up
+        description: link to the sign-up page
+        action: click
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+      - command: hover-text
+        text: Sign Up
+        description: link to the sign-up page
+        action: click
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+      - command: hover-text
+        text: Sign Up
+        description: link to the sign-up page
+        action: click
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+      - command: hover-text
+        text: Sign Up
+        description: link to the sign-up page
+        action: click
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+      - command: hover-text
+        text: Sign Up
+        description: link to the sign-up page
+        action: click
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+      - command: hover-text
+        text: Sign Up
+        description: link to the sign-up page
+        action: click
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+      - command: hover-text
+        text: Sign Up
+        description: link to the sign-up page
+        action: click
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+      - command: hover-text
+        text: Sign Up
+        description: link to the sign-up page
+        action: click
+  - prompt: Navigate to the sign-up page.
+    commands:
+      - command: focus-application
+        name: Google Chrome
+      - command: scroll-until-text
+        text: Sign Up
+        direction: down
+      - command: hover-text
+        text: Sign Up
+        description: link to the sign-up page
+        action: click
