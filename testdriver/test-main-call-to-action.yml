@@ -1,0 +1,67 @@
+version: 4.0.70
+steps:
+  - prompt: Locate the main call to action button on the homepage.
+    commands:
+      - command: scroll-until-text
+        text: Apply Now
+        direction: down
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
+  - prompt: Click the button.
+    commands:
+      - command: hover-text
+        text: View More
+        description: main call to action button
+        action: click
