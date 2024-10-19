@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
+  - prompt: Click on "About Us" in the Company section.
+    commands:
+      - command: hover-text
+        text: About Us
+        description: link in the Company section
+        action: click
